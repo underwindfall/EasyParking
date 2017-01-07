@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple_dark.xml",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.afollestad\\material-dialogs\\0.7.4.2\\res\\drawable-v21\\md_btn_selector_ripple_dark.xml"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_shape.xml",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.afollestad\\material-dialogs\\0.7.4.2\\res\\drawable-v21\\md_btn_shape.xml"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\md_btn_selector_ripple.xml",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.afollestad\\material-dialogs\\0.7.4.2\\res\\drawable-v21\\md_btn_selector_ripple.xml"
+    }
+]

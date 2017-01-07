@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_focus_dark.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_icon_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_pressed_light.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_text_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\money.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\money.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_place_grey600_36dp.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_place_grey600_36dp.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_map_grey600_48dp.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_map_grey600_48dp.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_normal_dark.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_text_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_disabled_focus_dark.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_text_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_credit_card_grey600_24dp.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_credit_card_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_disabled_focus_dark.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_pressed_dark.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_icon_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_grey600_48dp.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_home_grey600_48dp.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_attach_money_grey600_24dp.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_attach_money_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_focus_light.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_icon_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_directions_walk_white_24dp.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_directions_walk_white_24dp.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_grey600_36dp.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_home_grey600_36dp.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_notifications_on_grey600_48dp.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_on_grey600_48dp.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_map_grey600_36dp.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_map_grey600_36dp.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_refresh_white_48dp.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_refresh_white_48dp.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_plusone_small_off_client.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\ic_plusone_small_off_client.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_full_open_on_phone.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_pressed_light.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_place_grey600_48dp.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_place_grey600_48dp.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\powered_by_google_light.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\7.3.0\\res\\drawable-mdpi\\powered_by_google_light.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_plusone_tall_off_client.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_normal_light.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_icon_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_disabled_light.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_settings_grey600_48dp.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_settings_grey600_48dp.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_home_white_48dp.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_home_white_48dp.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_directions_car_white_24dp.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_directions_car_white_24dp.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_notifications_on_grey600_36dp.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_notifications_on_grey600_36dp.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_plusone_medium_off_client.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_focus_light.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_text_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_focus_dark.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_text_focus_dark.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_disabled_focus_light.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_disabled_light.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_text_disabled_light.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_plusone_standard_off_client.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_check.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_check.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\cash.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\cash.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\minutes_stop.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\minutes_stop.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\closed_parking.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\drawable-mdpi\\closed_parking.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_normal_dark.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_icon_normal_dark.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_normal_light.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_disabled_focus_light.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_text_disabled_focus_light.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_pressed_dark.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_text_pressed_dark.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_icon_disabled_dark.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_icon_disabled_dark.9.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\powered_by_google_dark.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\7.3.0\\res\\drawable-mdpi\\powered_by_google_dark.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\common_signin_btn_text_disabled_dark.9.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-mdpi\\common_signin_btn_text_disabled_dark.9.png"
+    }
+]

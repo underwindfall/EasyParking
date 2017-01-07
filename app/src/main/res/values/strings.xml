@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EasyPark</string>
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="fragment_home">Accueil</string>
+    <string name="fragment_free_place">Places Libres</string>
+    <string name="fragment_my_place">Ma place</string>
+    <string name="fragment_police">Zones à risque</string>
+    <string name="fragment_police_seen">Signaler la police !</string>
+    <string name="dialog_police_seen">La police se trouve-t-elle dans cette zone ?</string>
+    <string name="dialog_police_seen_YES">Oui</string>
+    <string name="dialog_police_seen_NO">Non</string>
+
+
+    <string name="free_place_pay_hour">Horaires Payantes :</string>
+    <string name="free_place_pay_hour_week">Du lundi au samedi :</string>
+    <string name="free_place_pay_hour_sunday">Dimanche et jours feriés :</string>
+    <string name="free_place_private">Parking Privé</string>
+
+    <string name="loading">Chargement en cours</string>
+    <string name="loading_error">Erreur de chargement. Il semblerait que vous ayez des problèmes de connexion à Internet</string>
+    <string name="location_error">Localisation en cours. Veuillez réessayer...</string>
+
+
+</resources>

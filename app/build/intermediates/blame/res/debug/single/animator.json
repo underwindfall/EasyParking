@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_out.xml",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\animator\\slide_out.xml"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\animator\\slide_in.xml",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\src\\main\\res\\animator\\slide_in.xml"
+    }
+]

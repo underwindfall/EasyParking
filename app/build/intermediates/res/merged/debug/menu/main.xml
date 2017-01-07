@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_refresh_white_48dp"
+        android:title="veqfreqf"
+        app:showAsAction="ifRoom"
+        android:orderInCategory="1" />
+</menu>

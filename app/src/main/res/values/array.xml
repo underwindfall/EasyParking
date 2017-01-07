@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="drawer_list">
+        <item>Accueil</item>
+        <item>Carte</item>
+        <item>Ma Place</item>
+        <item>Zones à risque</item>
+        <item>Paramètres</item>
+    </string-array>
+
+    <integer-array name="drawer_icon">
+        <item>@drawable/ic_home_grey600_36dp</item>
+        <item>@drawable/ic_map_grey600_36dp</item>
+        <item>@drawable/ic_place_grey600_36dp</item>
+        <item>@drawable/ic_notifications_on_grey600_36dp</item>
+        <item>@drawable/ic_settings_grey600_48dp</item>
+    </integer-array>
+</resources>

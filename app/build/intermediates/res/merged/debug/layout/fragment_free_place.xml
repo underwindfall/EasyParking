@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+
+    <com.sothree.slidinguppanel.FloatingActionButtonLayout
+        xmlns:sothree="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:fab="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        sothree:umanoFabMode="fade">
+
+        <com.sothree.slidinguppanel.SlidingUpPanelLayout
+            android:id="@+id/free_place_sliding_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="bottom"
+            sothree:umanoPanelHeight="85dp"
+            sothree:umanoShadowHeight="4dp"
+            sothree:umanoFadeColor="@android:color/transparent">
+
+            <fragment
+                android:id="@+id/free_place_map"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                class="com.google.android.gms.maps.SupportMapFragment" />
+
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="190dp"
+                android:background="#FFFFFF">
+                <LinearLayout
+                    android:id="@+id/free_place_sliding_container"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="85dp"
+                    android:background="#FFFFFF"
+                    android:elevation="3dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/closed_parking"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"/>
+
+                    <LinearLayout
+                        android:paddingTop="2dp"
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TextView
+                            android:id="@+id/free_place_sliding_title"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="The Awesome Sliding Up Panel"
+                            style="@style/sliding_panel_title"
+                            android:singleLine="true"/>
+                        <TextView
+                            android:id="@+id/free_place_sliding_place"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="The Awesome Sliding Up Panel"
+                            style="@style/sliding_panel_title"
+                            android:singleLine="true"/>
+                        <TextView
+                            android:id="@+id/free_place_sliding_addr"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="The Awesome Sliding Up Panel"
+                            style="@style/sliding_panel_description"
+                            android:singleLine="true"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    >
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/free_place_pay_hour"
+                        style="@style/sliding_panel_description_black"/>
+
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/free_place_pay_hour_week"
+                                />
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text="@string/free_place_pay_hour_sunday" />
+                        </LinearLayout>
+                        <LinearLayout
+                            android:orientation="vertical"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="5dp">
+                            <TextView
+                                android:id="@+id/free_place_week_hour"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+                            <TextView
+                                android:id="@+id/free_place_sunday_hour"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+                    <TextView
+                        android:layout_marginTop="5dp"
+                        android:id="@+id/free_place_private"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/free_place_private"/>
+                    <LinearLayout
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp">
+                        <ImageView
+                            android:id="@+id/free_place_card"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/ic_credit_card_grey600_24dp"/>
+                        <ImageView
+                            android:id="@+id/free_place_cash"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/cash"/>
+                        <ImageView
+                            android:id="@+id/free_place_coins"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/money"/>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+        </com.sothree.slidinguppanel.SlidingUpPanelLayout>
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/free_place_sliding_fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            fab:fab_icon="@drawable/ic_directions_car_white_24dp"
+            fab:fab_colorNormal="#FFFFFF"
+            fab:fab_colorPressed="#FFFFFF"
+            android:layout_gravity="bottom|right"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"/>
+    </com.sothree.slidinguppanel.FloatingActionButtonLayout>
+
+    <com.getbase.floatingactionbutton.FloatingActionButton
+        android:id="@+id/free_place_position_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        fab:fab_icon="@drawable/ic_my_location_grey600_24dp"
+        fab:fab_colorNormal="#FFFFFF"
+        fab:fab_colorPressed="@color/myPrimaryDarkColor"
+        fab:fab_addButtonSize="mini"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:id="@+id/loadingContainer"
+
+        android:background="@color/myPrimaryColorTransparent"
+        android:padding="10dp"
+        android:clickable="true"
+        >
+        <ProgressBar
+            android:id="@+id/progressbar"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            style="@android:style/Widget.Holo.ProgressBar.Large"
+            android:layout_centerInParent="true"
+             />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/loading"
+            style="@style/sliding_panel_title"
+            android:layout_below="@+id/progressbar"
+            android:layout_centerInParent="true"/>
+    </RelativeLayout>
+</RelativeLayout>

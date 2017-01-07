@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <com.sothree.slidinguppanel.FloatingActionButtonLayout
+        xmlns:sothree="http://schemas.android.com/apk/res-auto"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:fab="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        sothree:umanoFabMode="fade">
+
+        <com.sothree.slidinguppanel.SlidingUpPanelLayout
+            android:id="@+id/my_place_sliding_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="bottom"
+            sothree:umanoPanelHeight="85dp"
+            sothree:umanoShadowHeight="4dp"
+            sothree:umanoFadeColor="@android:color/transparent">
+
+            <fragment
+                android:id="@+id/my_place_map"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                class="com.google.android.gms.maps.SupportMapFragment" />
+
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="#FFFFFF">
+                <LinearLayout
+                    android:id="@+id/my_place_sliding_container"
+                    android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="85dp"
+                    android:background="#FFFFFF"
+                    android:elevation="3dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/minutes_stop"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"/>
+
+                    <LinearLayout
+                        android:paddingTop="2dp"
+                        android:orientation="vertical"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TextView
+                            android:id="@+id/my_place_sliding_title"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="The Awesome Sliding Up Panel"
+                            style="@style/sliding_panel_title"
+                            android:singleLine="true"/>
+                        <TextView
+                            android:id="@+id/my_place_sliding_place"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="The Awesome Sliding Up Panel"
+                            style="@style/sliding_panel_title"
+                            android:singleLine="true"/>
+                        <TextView
+                            android:id="@+id/my_place_sliding_addr"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="The Awesome Sliding Up Panel"
+                            style="@style/sliding_panel_description"
+                            android:singleLine="true"/>
+                    </LinearLayout>
+                </LinearLayout>
+                <LinearLayout
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    >
+
+
+                    <TextView
+                        android:layout_marginTop="5dp"
+                        android:id="@+id/my_place_price"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        />
+
+                </LinearLayout>
+            </LinearLayout>
+
+        </com.sothree.slidinguppanel.SlidingUpPanelLayout>
+
+        <com.getbase.floatingactionbutton.FloatingActionButton
+            android:id="@+id/my_place_sliding_fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            fab:fab_icon="@drawable/ic_directions_walk_white_24dp"
+            fab:fab_colorNormal="#FFFFFF"
+            fab:fab_colorPressed="#FFFFFF"
+            android:layout_gravity="bottom|right"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"/>
+    </com.sothree.slidinguppanel.FloatingActionButtonLayout>
+
+    <com.getbase.floatingactionbutton.FloatingActionButton
+        android:id="@+id/my_place_position_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        fab:fab_icon="@drawable/ic_my_location_grey600_24dp"
+        fab:fab_colorNormal="#FFFFFF"
+        fab:fab_colorPressed="@color/myPrimaryDarkColor"
+        fab:fab_addButtonSize="mini"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="8dp"/>
+</RelativeLayout>

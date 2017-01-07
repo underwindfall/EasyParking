@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\common_full_open_on_phone.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-tvdpi\\common_full_open_on_phone.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_tall_off_client.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-tvdpi\\ic_plusone_tall_off_client.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_medium_off_client.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-tvdpi\\ic_plusone_medium_off_client.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_standard_off_client.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-tvdpi\\ic_plusone_standard_off_client.png"
+    },
+    {
+        "merged": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi\\ic_plusone_small_off_client.png",
+        "source": "D:\\testcode\\EasyPark\\EasyPark\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.3.0\\res\\drawable-tvdpi\\ic_plusone_small_off_client.png"
+    }
+]
